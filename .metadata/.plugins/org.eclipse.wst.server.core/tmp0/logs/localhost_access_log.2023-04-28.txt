@@ -1,0 +1,13 @@
+127.0.0.1 - - [28/Apr/2023:10:08:32 +0530] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /signin;jsessionid=626E148CA5AD0C95EDC641AB926AC3D7 HTTP/1.1" 200 4621
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/fullcalendar.css HTTP/1.1" 200 41500
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/lineicons.css HTTP/1.1" 200 26995
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/main.css HTTP/1.1" 200 86981
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/toggle.css HTTP/1.1" 200 934
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/materialdesignicons.min.css HTTP/1.1" 200 274146
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/css/bootstrap.min.css HTTP/1.1" 200 163873
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/images/auth/signin-image.svg HTTP/1.1" 200 8159
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /assets/images/auth/shape.svg HTTP/1.1" 200 839
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:33 +0530] "GET /style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:08:35 +0530] "GET /assets/images/favicon.svg HTTP/1.1" 200 1424

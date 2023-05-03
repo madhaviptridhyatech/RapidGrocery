@@ -1,0 +1,14 @@
+127.0.0.1 - - [28/Apr/2023:10:09:04 +0530] "GET / HTTP/1.1" 200 235990
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET / HTTP/1.1" 200 235990
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/lib/animate/animate.min.css HTTP/1.1" 200 71751
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/css/style.css HTTP/1.1" 200 168006
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /mail/contact.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /lib/easing/easing.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /mail/jqBootstrapValidation.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /js/main.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/img/carousel-1.jpg HTTP/1.1" 200 1701300
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/img/carousel-2.jpg HTTP/1.1" 200 453524
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:05 +0530] "GET /assets/img/carousel-3.jpg HTTP/1.1" 200 398995
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:10:09:06 +0530] "GET /assets/img/favicon.ico HTTP/1.1" 404 682
